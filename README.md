@@ -28,7 +28,7 @@ UPDATE UNTUK UBUNTU
 apt update -y ; apt upgrade -y ; update-grub ; apt install curl -y
 ```
 # LINK INSTALATION
-
+```
 wget -q -O main.sh "https://raw.githubusercontent.com/Daffastorevps/Script/master/folder/main.sh";chmod +x main.sh;bash main.sh
 ```
 Chat gw untuk pointing vps kalian
