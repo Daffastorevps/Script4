@@ -29,7 +29,7 @@ apt update -y ; apt upgrade -y ; apt dist-upgrade -y ; apt install curl -y
 ```
 apt update -y ; apt upgrade -y ; update-grub ; apt install curl -y
 ```
-# LINK INSTALATION
+LINK INSTALATION
 <pre><code>wget -q -O main.sh "https://raw.githubusercontent.com/Daffastorevps/Script/master/folder/main.sh";chmod +x main.sh;bash main.sh</code></pre>
 
 Chat gw untuk pointing vps kalian
