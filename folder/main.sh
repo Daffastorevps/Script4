@@ -264,8 +264,8 @@ fi
 domain=$(cat /root/domain)
 mkdir -p /home/script/
 DATEVPS=$(date +'%d-%m-%Y')
-CHATID="-1001918138817"
-KEY="6976494264:AAEFMlD9UqEmIdmvt4LP11U3ti1IxSTuxhc"
+CHATID="6225527176"
+KEY="6758149834:AAHlrubnM_BQMthIoKpFZ-q8P_cxLrTyDWk"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 TIMEZONE=$(printf '%(%H:%M:%S)T')
 TEXT="
@@ -281,7 +281,7 @@ TEXT="
 <code>Expired :</code><code>$exp</code>
 <code>────────────────────</code>
 <i>Automatic Notifications From</i>
-<b>𝑿𝑫𝑿𝑳 𝑺𝑻𝑶𝑹𝑬 𝑩𝑶𝑻</b>
+<b>DAFFA 𝑺𝑻𝑶𝑹𝑬 BO</b>
 <code>────────────────────</code>
 "'&reply_markup={"inline_keyboard":[[{"text":" ⛈️ ʙᴜʏ ꜱᴄʀɪᴘᴛ ⛈️ ","url":"https://t.me/xdxl_store"}]]}' 
 
