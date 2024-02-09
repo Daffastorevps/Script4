@@ -19,19 +19,19 @@ LIFETIME: 50K
 - bisa restart service.
 - 
 ``
-UPDATE DULU SEBELUM INSTALL..!!
+# UPDATE DULU SEBELUM INSTALL..!!
 ```
 # UPDATE UNTUK DEBIAN
 ```
-apt update -y ; apt upgrade -y ; apt dist-upgrade -y ; apt install curl -y
+# apt update -y ; apt upgrade -y ; apt dist-upgrade -y ; apt install curl -y
 ```
 UPDATE UNTUK UBUNTU
 ```
-apt update -y ; apt upgrade -y ; update-grub ; apt install curl -y
+# apt update -y ; apt upgrade -y ; update-grub ; apt install curl -y
 ```
 # LINK INSTALATION
 ```
-wget -q -O main.sh "https://raw.githubusercontent.com/Daffastorevps/Script/master/folder/main.sh";chmod +x main.sh;bash main.sh
+# wget -q -O main.sh "https://raw.githubusercontent.com/Daffastorevps/Script/master/folder/main.sh";chmod +x main.sh;bash main.sh
 ```
 # Chat gw untuk pointing vps kalian
 
