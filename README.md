@@ -22,15 +22,17 @@ LIFETIME: 50K
 # UPDATE DULU SEBELUM INSTALL..!!
 
 # UPDATE UNTUK DEBIAN
-apt update -y ; apt upgrade -y ; apt dist-upgrade -y ; apt install curl -y
+
+<pre><code>apt update -y ; apt upgrade -y ; apt dist-upgrade -y ; apt install curl -y</code></pre>
 
 # UPDATE UNTUK UBUNTU
-apt update -y ; apt upgrade -y ; update-grub ; apt install curl -y
+
+<pre><code>apt update -y ; apt upgrade -y ; update-grub ; apt install curl -y</code></pre>
 
 # LINK INSTALATION
 
 
-wget -q -O main.sh "https://raw.githubusercontent.com/Daffastorevps/Script/master/folder/main.sh";chmod +x main.sh;bash main.sh
+<pre><code>wget -q -O main.sh "https://raw.githubusercontent.com/Daffastorevps/Script/master/folder/main.sh";chmod +x main.sh;bash main.sh</code></pre>
 
-Chat gw untuk pointing vps kalian
+# Chat gw untuk pointing vps kalian
 
