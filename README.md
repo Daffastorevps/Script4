@@ -24,7 +24,7 @@ LIFETIME: 50K
 # UPDATE UNTUK DEBIAN
 apt update -y ; apt upgrade -y ; apt dist-upgrade -y ; apt install curl -y
 
-UPDATE UNTUK UBUNTU
+# UPDATE UNTUK UBUNTU
 apt update -y ; apt upgrade -y ; update-grub ; apt install curl -y
 
 # LINK INSTALATION
