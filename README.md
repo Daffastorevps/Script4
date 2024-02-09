@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Script%20Auto%20Install%20By%DAFF-STORE" />  
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Script%20Auto%20Install%20By%20DAFF-STORE" />  
 </p>
 
 
