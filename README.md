@@ -9,7 +9,7 @@ HARGA SEWA AUTOSCRIPT
 LIFETIME: 50K
 
 • HUBUNGI:
-- WhatsApp: [Klik Disini](https://wa.me/62839246692)
+- WhatsApp: [Klik Disini](https://wa.me/6285839246692)
 - Telegram: [Klik Disini](https://t.me/Daff_Store75)
 
 
